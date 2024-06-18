@@ -1,0 +1,299 @@
+[
+    {
+        "Year": 2011,
+        "Incident": "Fukushima",
+        "INES level": 5.0,
+        "Country": "Japan",
+        "IAEA description": "Reactor shutdown after the 2011 Sendai earthquake and tsunami; failure of emergency cooling caused an explosion",
+        "Latitude": 37.319444,
+        "Longitude": 141.021111
+    },
+    {
+        "Year": 2011,
+        "Incident": "Onagawa",
+        "INES level": null,
+        "Country": "Japan",
+        "IAEA description": "Reactor shutdown after the 2011 Sendai earthquake and tsunami caused a fire",
+        "Latitude": 38.401111,
+        "Longitude": 141.499722
+    },
+    {
+        "Year": 2006,
+        "Incident": "Fleurus",
+        "INES level": 4.0,
+        "Country": "Belgium",
+        "IAEA description": "Severe health effects for a worker at a commercial irradiation facility as a result of high doses of radiation",
+        "Latitude": 50.4831,
+        "Longitude": 4.5501
+    },
+    {
+        "Year": 2006,
+        "Incident": "Forsmark",
+        "INES level": 2.0,
+        "Country": "Sweden",
+        "IAEA description": "Degraded safety functions for common cause failure in the emergency power supply system at nuclear power plant",
+        "Latitude": 60.403333,
+        "Longitude": 18.166667
+    },
+    {
+        "Year": 2006,
+        "Incident": "Erwin",
+        "INES level": null,
+        "Country": "US",
+        "IAEA description": "Thirty-five litres of a highly enriched uranium solution leaked during transfer",
+        "Latitude": 36.145,
+        "Longitude": -82.410833
+    },
+    {
+        "Year": 2005,
+        "Incident": "Sellafield",
+        "INES level": 3.0,
+        "Country": "UK",
+        "IAEA description": "Release of large quantity of radioactive material, contained within the installation",
+        "Latitude": 54.4205,
+        "Longitude": -3.4975
+    },
+    {
+        "Year": 2005,
+        "Incident": "Atucha",
+        "INES level": 2.0,
+        "Country": "Argentina",
+        "IAEA description": "Overexposure of a worker at a power reactor exceeding the annual limit",
+        "Latitude": -33.967519,
+        "Longitude": -59.205119
+    },
+    {
+        "Year": 2005,
+        "Incident": "Braidwood",
+        "INES level": null,
+        "Country": "US",
+        "IAEA description": "Nuclear material leak",
+        "Latitude": 41.243611,
+        "Longitude": -88.229167
+    },
+    {
+        "Year": 2003,
+        "Incident": "Paks",
+        "INES level": 3.0,
+        "Country": "Hungary",
+        "IAEA description": "Partially spent fuel rods undergoing cleaning in a tank of heavy water ruptured and spilled fuel pellets",
+        "Latitude": 46.5725,
+        "Longitude": 18.854167
+    },
+    {
+        "Year": 1999,
+        "Incident": "Tokaimura",
+        "INES level": 4.0,
+        "Country": "Japan",
+        "IAEA description": "Fatal overexposures of workers following a criticality event at a nuclear facility",
+        "Latitude": 36.4667,
+        "Longitude": 140.5667
+    },
+    {
+        "Year": 1999,
+        "Incident": "Yanangio",
+        "INES level": 3.0,
+        "Country": "Peru",
+        "IAEA description": "Incident with radiography source resulting in severe radiation burns",
+        "Latitude": -11.2156,
+        "Longitude": -75.4853
+    },
+    {
+        "Year": 1999,
+        "Incident": "Ikitelli",
+        "INES level": 3.0,
+        "Country": "Turkey",
+        "IAEA description": "Loss of a highly radioactive Co-60 source",
+        "Latitude": 41.0792,
+        "Longitude": 28.7825
+    },
+    {
+        "Year": 1999,
+        "Incident": "Ishikawa",
+        "INES level": 2.0,
+        "Country": "Japan",
+        "IAEA description": "Control rod malfunction",
+        "Latitude": 37.061111,
+        "Longitude": 136.726389
+    },
+    {
+        "Year": 1993,
+        "Incident": "Tomsk",
+        "INES level": 4.0,
+        "Country": "Russia",
+        "IAEA description": "Pressure buildup led to an explosive mechanical failure",
+        "Latitude": 56.5,
+        "Longitude": 84.966667
+    },
+    {
+        "Year": 1993,
+        "Incident": "Cadarache",
+        "INES level": 2.0,
+        "Country": "France",
+        "IAEA description": "Spread of contamination to an area not expected by design",
+        "Latitude": 43.6996,
+        "Longitude": 5.7407
+    },
+    {
+        "Year": 1989,
+        "Incident": "Vandellos",
+        "INES level": 3.0,
+        "Country": "Spain",
+        "IAEA description": "Near accident caused by fire resulting in loss of safety systems at the nuclear power station",
+        "Latitude": 40.951389,
+        "Longitude": 0.866667
+    },
+    {
+        "Year": 1989,
+        "Incident": "Greifswald",
+        "INES level": null,
+        "Country": "Germany",
+        "IAEA description": "Excessive heating which damaged ten fuel rods",
+        "Latitude": 54.140586,
+        "Longitude": 13.664422
+    },
+    {
+        "Year": 1986,
+        "Incident": "Chernobyl",
+        "INES level": 7.0,
+        "Country": "Ukraine (USSR)",
+        "IAEA description": "Widespread health and environmental effects. External release of a significant fraction of reactor core inventory",
+        "Latitude": 51.389553,
+        "Longitude": 30.099147
+    },
+    {
+        "Year": 1986,
+        "Incident": "Hamm-Uentrop",
+        "INES level": null,
+        "Country": "Germany",
+        "IAEA description": "Spherical fuel pebble became lodged in the pipe used to deliver fuel elements to the reactor",
+        "Latitude": 51.679167,
+        "Longitude": 7.971667
+    },
+    {
+        "Year": 1981,
+        "Incident": "Tsuraga",
+        "INES level": 2.0,
+        "Country": "Japan",
+        "IAEA description": "More than 100 workers were exposed to doses of up to 155 millirem per day radiation",
+        "Latitude": 35.672778,
+        "Longitude": 136.0775
+    },
+    {
+        "Year": 1980,
+        "Incident": "Saint Laurent des Eaux",
+        "INES level": 4.0,
+        "Country": "France",
+        "IAEA description": "Melting of one channel of fuel in the reactor with no release outside the site",
+        "Latitude": 47.717,
+        "Longitude": 1.6116
+    },
+    {
+        "Year": 1979,
+        "Incident": "Three Mile Island",
+        "INES level": 5.0,
+        "Country": "US",
+        "IAEA description": "Severe damage to the reactor core",
+        "Latitude": 40.153889,
+        "Longitude": -76.724722
+    },
+    {
+        "Year": 1977,
+        "Incident": "Jaslovsk\u00e9 Bohunice",
+        "INES level": 4.0,
+        "Country": "Czechoslovakia",
+        "IAEA description": "Damaged fuel integrity, extensive corrosion damage of fuel cladding and release of radioactivity",
+        "Latitude": 48.476111,
+        "Longitude": 17.65
+    },
+    {
+        "Year": 1969,
+        "Incident": "Lucens",
+        "INES level": null,
+        "Country": "Switzerland",
+        "IAEA description": "Total loss of coolant led to a power excursion and explosion of experimental reactor",
+        "Latitude": 46.7083,
+        "Longitude": 6.8389
+    },
+    {
+        "Year": 1967,
+        "Incident": "Chapelcross",
+        "INES level": null,
+        "Country": "UK",
+        "IAEA description": "Graphite debris partially blocked a fuel channel causing a fuel element to melt and catch fire",
+        "Latitude": 55.01566,
+        "Longitude": -3.22605
+    },
+    {
+        "Year": 1966,
+        "Incident": "Monroe",
+        "INES level": null,
+        "Country": "US",
+        "IAEA description": "Sodium cooling system malfunction",
+        "Latitude": 41.889167,
+        "Longitude": -83.345556
+    },
+    {
+        "Year": 1964,
+        "Incident": "Charlestown",
+        "INES level": null,
+        "Country": "US",
+        "IAEA description": "Error by a worker at a United Nuclear Corporation fuel facility led to an accidental criticality",
+        "Latitude": 41.3832,
+        "Longitude": -71.6419
+    },
+    {
+        "Year": 1959,
+        "Incident": "Santa Susana Field Laboratory",
+        "INES level": null,
+        "Country": "US",
+        "IAEA description": "Partial core meltdown",
+        "Latitude": 34.2583,
+        "Longitude": -118.7067
+    },
+    {
+        "Year": 1958,
+        "Incident": "Chalk River",
+        "INES level": null,
+        "Country": "Canada",
+        "IAEA description": "Due to inadequate cooling a damaged uranium fuel rod caught fire and was torn in two",
+        "Latitude": 46.0159,
+        "Longitude": -77.4523
+    },
+    {
+        "Year": 1958,
+        "Incident": "Vin\u010da",
+        "INES level": null,
+        "Country": "Yugoslavia",
+        "IAEA description": "During a subcritical counting experiment a power buildup went undetected - six scientists received high doses",
+        "Latitude": 44.762,
+        "Longitude": 20.6232
+    },
+    {
+        "Year": 1957,
+        "Incident": "Kyshtym",
+        "INES level": 6.0,
+        "Country": "Russia",
+        "IAEA description": "Significant release of radioactive material\nto the environment from explosion of a high activity waste tank.",
+        "Latitude": 55.7674,
+        "Longitude": 60.6931
+    },
+    {
+        "Year": 1957,
+        "Incident": "Windscale Pile",
+        "INES level": 5.0,
+        "Country": "UK",
+        "IAEA description": "Release of radioactive material to the environment following a fire in a reactor core",
+        "Latitude": 54.577200,
+        "Longitude": -2.797500
+    },
+    {
+        "Year": 1952,
+        "Incident": "Chalk River",
+        "INES level": 5.0,
+        "Country": "Canada",
+        "IAEA description": "A reactor shutoff rod failure, combined with several operator errors, led to a major power excursion of more than double the reactor's rated output at AECL's NRX reactor",
+        "Latitude": 46.0159,
+        "Longitude": -77.4523
+    }
+]
